@@ -1,1 +1,10 @@
 C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\bin\Debug\StockManagament.exe.config
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\bin\Debug\StockManagament.exe
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\bin\Debug\StockManagament.pdb
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\obj\Debug\StockManagament.csprojResolveAssemblyReference.cache
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\obj\Debug\StockManagament.Form1.resources
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\obj\Debug\StockManagament.Properties.Resources.resources
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\obj\Debug\StockManagament.csproj.GenerateResource.Cache
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\obj\Debug\StockManagament.exe
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\obj\Debug\StockManagament.pdb
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\obj\Debug\StockManagament.MusteriEkleForm.resources

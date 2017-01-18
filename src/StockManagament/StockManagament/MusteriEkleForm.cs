@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace StockManagament
 {
-    public partial class Form1 : Form
+    public partial class MusteriEkleForm : Form
     {
-        public Form1()
+        public MusteriEkleForm()
         {
             InitializeComponent();
         }
 
-        private void müşteriEkleToolStripMenuItem_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             MusteriEkleForm musteriekleform = new MusteriEkleForm();
             musteriekleform.Show();
