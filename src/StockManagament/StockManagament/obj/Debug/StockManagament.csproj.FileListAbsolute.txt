@@ -8,3 +8,7 @@ C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagam
 C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\obj\Debug\StockManagament.exe
 C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\obj\Debug\StockManagament.pdb
 C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\obj\Debug\StockManagament.MusteriEkleForm.resources
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\bin\Debug\EntityFramework.dll
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\bin\Debug\EntityFramework.xml
+C:\Users\Ademm\Desktop\Projeler\StockManagament\src\StockManagament\StockManagament\bin\Debug\EntityFramework.SqlServer.xml
